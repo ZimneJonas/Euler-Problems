@@ -1,2 +1,0 @@
-# Euler Difficulty 15%
-
